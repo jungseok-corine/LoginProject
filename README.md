@@ -4,3 +4,4 @@
 Studying
 -TextField
 -Delegate Pattern
+-MVC Pattern
